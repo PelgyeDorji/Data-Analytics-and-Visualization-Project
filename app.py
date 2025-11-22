@@ -7,7 +7,7 @@ st.title("Earthquake Magnitude and Frequency: Global Patterns")
 
 @st.cache_data #loads data once, and remembers it and skips reloading.
 def load_data():
-    return pd.read_csv('cleaned_earthquakes.xls')
+    return pd.read_csv('data/cleaned_earthquakes.xls')
 
 df = load_data() # runs the function and saves the table as df.
 
@@ -49,3 +49,5 @@ fig2 = px.bar(
     title='Average Magnitude by Continent'
 )
 st.plotly_chart(fig2, use_container_width=True)
+
+
