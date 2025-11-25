@@ -262,12 +262,12 @@ us7000lztu,4.7,earthquake,2024-02-17 06:32:54,1708150000000.0,green,mwr,28.9405,
 tx2024dijp,4.7,earthquake,2024-02-17 06:32:54,1708150000000.0,green,ml,28.954,-98.001,"3 km SSE of Falls City, Texas",North America,USA,Texas
 us7000lzts,4.3,earthquake,2024-02-17 06:20:22,1708150000000.0,green,mwr,28.9866,-98.0212,"0 km NW of Falls City, Texas",North America,USA,Texas
 tx2024dijf,4.4,earthquake,2024-02-17 06:20:21,1708150000000.0,green,ml,28.954,-98.005,"3 km SSE of Falls City, Texas",North America,USA,Texas
-us6000nn4q,5.1,earthquake,2024-08-27 22:43:04,1724800000000.0,green,mww,-34.3923,179.972,south of the Kermadec Islands,Asia,Unknown,Unknown
+us6000nn4q,5.1,earthquake,2024-08-27 22:43:04,1724800000000.0,green,mww,-34.3923,179.972,south of the Kermadec Islands,Oceania,Unknown,Unknown
 us7000mqhw,4.9,earthquake,2024-06-05 14:19:43,1717600000000.0,green,mb,-38.2187,176.033,"10 km E of Tokoroa, New Zealand",Oceania,New Zealand,Waikato
 us7000ltgv,5.1,earthquake,2024-01-24 14:18:37,1706110000000.0,green,mww,-40.2633,176.402,"25 km ESE of Dannevirke, New Zealand",Oceania,New Zealand,Hawke's Bay
-us6000lfhl,5.7,earthquake,2023-10-14 06:34:10,1697270000000.0,green,mww,-31.3282,179.732,Kermadec Islands region,Asia,Unknown,Unknown
+us6000lfhl,5.7,earthquake,2023-10-14 06:34:10,1697270000000.0,green,mww,-31.3282,179.732,Kermadec Islands region,Oceania,Unknown,Unknown
 us7000kwrq,5.5,earthquake,2023-09-19 21:14:49,1695160000000.0,green,mww,-43.7064,171.118,"Canterbury, New Zealand",Oceania,New Zealand,Canterbury
-us6000kz5m,5.1,earthquake,2023-08-10 23:53:19,1691710000000.0,green,mww,-40.1882,173.572,"88 km SSW of Opunake, New Zealand",Asia,Unknown,Unknown
+us6000kz5m,5.1,earthquake,2023-08-10 23:53:19,1691710000000.0,green,mww,-40.1882,173.572,"88 km SSW of Opunake, Oceania",Oceania,Unknown,Unknown
 us6000mjux,5.3,earthquake,2024-03-19 21:27:01,1710880000000.0,green,mww,29.7252,65.3575,"68 km WNW of Nushki, Pakistan",Asia,Afghanistan,Kandahar
 us6000mjpj,5.5,earthquake,2024-03-19 00:35:18,1710810000000.0,green,mww,29.7645,65.3645,"64 km WNW of Nushki, Pakistan",Asia,Afghanistan,Kandahar
 us6000mgt8,5.1,earthquake,2024-03-05 04:20:14,1709610000000.0,green,mww,27.1043,59.3301,"60 km NNW of Fannūj, Iran",Asia,Iran (Islamic Republic of),Sistan and Baluchestan Province
@@ -376,7 +376,7 @@ us7000krjx,7.1,earthquake,2023-08-28 19:55:30,1693250000000.0,green,mww,-6.7768,
 us7000krja,5.3,earthquake,2023-08-28 17:59:16,1693250000000.0,green,mww,4.2633,126.513,"Pulau-Pulau Talaud, Indonesia",Asia,Indonesia,Sulawesi Utara
 us7000lxp2,4.0,earthquake,2024-02-08 03:48:06,1707360000000.0,green,mb,28.5574,-78.9438,"171 km E of Cape Canaveral, Florida",North America,Unknown,Unknown
 ok2024cish,5.06,earthquake,2024-02-03 05:24:28,1706940000000.0,green,mww,35.5343,-96.7638,"8 km NW of Prague, Oklahoma",North America,USA,Oklahoma
-us7000n9fh,5.4,earthquake,2024-08-26 04:11:38,1724650000000.0,green,mb,37.9845,-9.538,"52 km W of Sines, Portugal",South America,Unknown,Unknown
+us7000n9fh,5.4,earthquake,2024-08-26 04:11:38,1724650000000.0,green,mb,37.9845,-9.538,"52 km W of Sines, Portugal",Europe,Unknown,Unknown
 us7000myxn,5.6,earthquake,2024-07-12 18:19:05,1720810000000.0,green,mww,-17.4037,-69.4991,"67 km E of Tarata, Peru",South America,Peru,Tacna
 us7000mytc,5.8,earthquake,2024-07-12 09:30:31,1720780000000.0,green,mww,-15.5726,-74.7689,"24 km SW of Acarí, Peru",South America,Peru,Arequipa
 us7000mxvv,5.4,earthquake,2024-07-08 19:33:26,1720470000000.0,green,mww,-15.9895,-74.7421,"59 km WSW of Atiquipa, Peru",South America,Peru,Unknown
